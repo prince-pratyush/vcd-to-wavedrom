@@ -1,0 +1,63 @@
+$date
+    Wed Apr 15 00:00:00 2026
+$end
+$version
+    vcd2wavedrom sample
+$end
+$timescale
+    1ns
+$end
+$scope module tb_counter $end
+$var wire 1 !  clk      $end
+$var reg  4 "  count [3:0] $end
+$var wire 1 #  done     $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+b0 "
+0#
+$end
+#5
+1!
+b0001 "
+#10
+0!
+#15
+1!
+b0010 "
+#20
+0!
+#25
+1!
+b0011 "
+#30
+0!
+#35
+1!
+b0100 "
+#40
+0!
+#45
+1!
+b0101 "
+#50
+0!
+#55
+1!
+b0110 "
+#60
+0!
+#65
+1!
+b0111 "
+1#
+#70
+0!
+#75
+1!
+b1000 "
+0#
+#80
+0!
