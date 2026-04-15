@@ -1,0 +1,97 @@
+{
+  "head": {
+    "tock": 1
+  },
+  "signal": [
+    {
+      "name": "tb_circuit.out",
+      "wave": "01011............"
+    },
+    {
+      "name": "tb_circuit.w",
+      "wave": "0.......1........"
+    },
+    {
+      "name": "tb_circuit.x",
+      "wave": "0...1...0...1...."
+    },
+    {
+      "name": "tb_circuit.y",
+      "wave": "0.1.0.1.0.1.0.1.."
+    },
+    {
+      "name": "tb_circuit.z",
+      "wave": "0101010101010101."
+    },
+    {
+      "name": "tb_circuit.uut.and1_out",
+      "wave": "1...0............"
+    },
+    {
+      "name": "tb_circuit.uut.and2_out",
+      "wave": "010..10..10..10.."
+    },
+    {
+      "name": "tb_circuit.uut.nand1_out",
+      "wave": "01011............"
+    },
+    {
+      "name": "tb_circuit.uut.not_w",
+      "wave": "1.......0........"
+    },
+    {
+      "name": "tb_circuit.uut.not_x",
+      "wave": "1...0...1...0...."
+    },
+    {
+      "name": "tb_circuit.uut.not_y",
+      "wave": "1.0.1.0.1.0.1.0.."
+    },
+    {
+      "name": "tb_circuit.uut.not_z",
+      "wave": "1010101010101010."
+    },
+    {
+      "name": "tb_circuit.uut.out",
+      "wave": "01011............"
+    },
+    {
+      "name": "tb_circuit.uut.w",
+      "wave": "0.......1........"
+    },
+    {
+      "name": "tb_circuit.uut.x",
+      "wave": "0...1...0...1...."
+    },
+    {
+      "name": "tb_circuit.uut.y",
+      "wave": "0.1.0.1.0.1.0.1.."
+    },
+    {
+      "name": "tb_circuit.uut.z",
+      "wave": "0101010101010101."
+    },
+    {
+      "name": "tb_circuit.$ivl_for_loop0.i",
+      "wave": "0================",
+      "data": [
+        "0x1",
+        "0x2",
+        "0x3",
+        "0x4",
+        "0x5",
+        "0x6",
+        "0x7",
+        "0x8",
+        "0x9",
+        "0xa",
+        "0xb",
+        "0xc",
+        "0xd",
+        "0xe",
+        "0xf",
+        "0x10"
+      ]
+    }
+  ]
+}

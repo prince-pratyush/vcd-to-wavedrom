@@ -1,0 +1,15 @@
+{
+  "head": {
+    "tock": 1
+  },
+  "signal": [
+    {
+      "name": "tb.clk",
+      "wave": "010101"
+    },
+    {
+      "name": "tb.q",
+      "wave": "0.1.0."
+    }
+  ]
+}
